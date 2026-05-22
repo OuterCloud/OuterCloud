@@ -2,14 +2,6 @@
 
 Full-stack developer in the AI era. Building tools that turn information overload into actionable insights.
 
-别人疯狂我内敛，别人内敛我疯狂。
-
-田忌赛马想称王，不拿弱处比人强。
-
-好一个天外归云，真个大天外菩提。
-
-揭谛菩提亦是我，白云城里摘星客。
-
 ## DailyPulse
 
 An AI-powered daily briefing platform that aggregates trending content across tech and finance.
